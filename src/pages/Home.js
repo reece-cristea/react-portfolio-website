@@ -11,7 +11,7 @@ function Home() {
         <div className="col-12 col-md-6 ps-4">
           <div className="display-5 text-center">
             Hello! I'm a dedicated software developer with a passion for crafting seamless web experiences. With experience in front-end UI/UX,
-            I specialize in translatting designs into interactive, user-friendly interfaces. My skills in HTML, CSS, JavaScript, and frameworks like
+            I specialize in translating designs into interactive, user-friendly interfaces. My skills in HTML, CSS, JavaScript, and frameworks like
             React.js make me a valuable asset in delivering top-notch web solutions.
           </div>
         </div>
